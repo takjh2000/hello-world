@@ -1,2 +1,2 @@
-# hello-world
+# HelloWorld
 open-source Homework
